@@ -1,0 +1,28 @@
+services:
+  db:
+    container_name: job-tracker-db
+    image: postgres:latest
+
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: jobtracker
+      PGDATA: /data/postgres
+    
+    volumes:
+      - db:/data/postgres
+
+    ports:
+      - "5337:5432"
+
+    networks:
+      - db
+
+    restart: unless-stopped
+
+networks:
+  db:
+    driver: bridge
+
+volumes:
+  db:
