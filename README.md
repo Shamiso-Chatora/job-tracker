@@ -58,6 +58,21 @@ The project is currently being refined based on these insights as part of an ong
 
 <img width="1024" height="1536" alt="InitialPrototype" src="https://github.com/user-attachments/assets/2fcd5b9b-1b16-4c16-97ad-feb0d69ec77d" />
 
+# i) Overview
+<img width="1657" height="676" alt="Overview" src="https://github.com/user-attachments/assets/ad7c6f4a-753c-4784-a5dc-165d8f51a55d" />
+
+# ii) Add Application
+
+<img width="1697" height="817" alt="AddApplication" src="https://github.com/user-attachments/assets/0e890fa0-28fb-438f-b164-946b92ec3a52" />
+
+# iii) JobCards
+
+<img width="1597" height="906" alt="JobCard" src="https://github.com/user-attachments/assets/203d4fda-2530-4418-a0cc-b8c6566b9957" />
+
+
+
+
+
 
 ## User Research & Feedback
 
